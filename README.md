@@ -1,11 +1,14 @@
 ![AI-Sales-Prediction](https://github.com/Bmdhia/Sales_Predictions/assets/136000177/ae56003f-7d2d-4348-abdd-9f8e0bfe14d2)
 
 # Sales predictions
-This project will be a sales prediction for food items sold at various stores
 
-Dhia Ben Marzouk
+> Dhia Ben Marzouk
 
-### The objective of this is to assist the retailer in comprehending the characteristics of products and stores that have significant impacts on boosting sales.
+## Background and motivation
+
+#### This project will be a sales prediction for food items sold at various stores.
+
+#### The objective of this is to assist the retailer in comprehending the characteristics of products and stores that have significant impacts on boosting sales.
 
 Data Source :
 
