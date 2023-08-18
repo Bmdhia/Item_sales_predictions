@@ -1,4 +1,5 @@
-![Sale](https://github.com/Bmdhia/sales_predictions/assets/136000177/c56c90d7-eee6-45fd-9f19-9f2c30abc698)
+![AI-Sales-Prediction](https://github.com/Bmdhia/Sales_Predictions/assets/136000177/ae56003f-7d2d-4348-abdd-9f8e0bfe14d2)
+
 # Sales predictions
 This project will be a sales prediction for food items sold at various stores
 
@@ -82,7 +83,7 @@ The Root Mean Squared Error had a calculation of $1057.39.
 #### 🎆 Using this model to predict item outlet sales may have limitations, as indicated by an R^2 score of 0.595 and an RMSE of 1057.39, suggesting a noticeable disparity in performance metrics.
 
 # Recommendations :
-- I recommend to fine-tune input features, adjust model parameters, or explore other regression techniques to to achieve more reliable and precise predictions for item outlet sales.
+- I recommend to fine-tune input features, adjust model hyperparameters, or explore other regression techniques to achieve more reliable and precise predictions for item outlet sales.
 
 # Limitations & Next Steps : 
 
